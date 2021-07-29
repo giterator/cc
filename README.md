@@ -4,7 +4,7 @@ A new run length encoding algorithm for lossless data compression that exploits 
 
 ![Alt text](performance.png?raw=true "CC vs TurboRLE")
 
-
+Link to manuscript:
 
 CC's overall compression factor: 1.10
 
